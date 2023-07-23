@@ -1,0 +1,7 @@
+https://hub.docker.com/
+
+https://swapi.dev/api/people/1
+
+http://localhost:8080/people/1
+
+https://www.docker.com/products/docker-desktop 
